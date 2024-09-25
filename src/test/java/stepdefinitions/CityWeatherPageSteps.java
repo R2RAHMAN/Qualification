@@ -17,10 +17,4 @@ public class CityWeatherPageSteps {
         Assert.assertTrue(header.contains(cityName), "City name is not present in the header");
     }
 
-    @Then("I print {string}")
-    public void iPrint(String arg0) {
-        step("Print " + arg0);
-        System.out.println(arg0);
-    }
-
 }

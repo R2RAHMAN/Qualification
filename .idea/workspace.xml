@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c8dbde-5646-4599-a374-02a0e5087bbd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/features/searchCity.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/searchCity.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/CityWeatherPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/CityWeatherPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/log/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/CityWeatherPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/CityWeatherPageSteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

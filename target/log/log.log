@@ -114,3 +114,42 @@
 2024-09-25 11:05:20 INFO  - Label 'City Header' :: Getting text from element
 2024-09-25 11:05:26 INFO  - Label 'City Header' :: Element's text: [New York City, NY]
 2024-09-25 11:05:26 INFO  - Closing browser
+2024-09-25 11:12:57 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-09-25 11:12:57 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-09-25 11:14:25 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-09-25 11:14:25 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-09-25 11:14:25 INFO  - Browser 'CHROME' ready...
+2024-09-25 11:14:25 INFO  - Maximizing browser window
+2024-09-25 11:14:25 INFO  - Navigate to url - 'https://www.accuweather.com/'
+2024-09-25 11:14:41 INFO  - Closing browser
+2024-09-25 11:20:44 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-09-25 11:20:44 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-09-25 11:20:51 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-09-25 11:20:51 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-09-25 11:20:51 INFO  - Browser 'CHROME' ready...
+2024-09-25 11:20:51 INFO  - Maximizing browser window
+2024-09-25 11:20:51 INFO  - Navigate to url - 'https://www.accuweather.com/'
+2024-09-25 11:20:55 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:20:55 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:20:55 INFO  - Label 'Main Page' :: Waiting for element to be displayed
+2024-09-25 11:21:25 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'main-page')]' were found in DISPLAYED state
+2024-09-25 11:21:25 INFO  - Label 'Main Page' :: Element has not become displayed after timeout
+2024-09-25 11:21:25 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:21:25 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:21:25 INFO  - Text Field 'Search Input' :: Clicking
+2024-09-25 11:21:26 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:21:26 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:21:26 INFO  - Text Field 'Search Input' :: Clearing
+2024-09-25 11:21:26 INFO  - Text Field 'Search Input' :: Typing 'New York'
+2024-09-25 11:21:26 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:21:26 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:21:26 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:21:26 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:21:26 INFO  - Button 'First Suggestion' :: Clicking
+2024-09-25 11:21:27 INFO  - Label 'City Header' :: Getting text from element
+2024-09-25 11:21:31 INFO  - Label 'City Header' :: Element's text: [New York City, NY]
+2024-09-25 11:21:31 INFO  - Closing browser
