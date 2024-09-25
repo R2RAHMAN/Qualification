@@ -12,5 +12,4 @@ Feature: Search City
       When  I click on the first search result
       Then  the city weather page header contains city name "New York"
       Then  I print "hello world"
-      Then  I print 5
 

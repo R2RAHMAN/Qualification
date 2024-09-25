@@ -85,3 +85,32 @@
 2024-09-25 10:26:25 INFO  - Label 'City Header' :: Getting text from element
 2024-09-25 10:26:29 INFO  - Label 'City Header' :: Element's text: [New York City, NY]
 2024-09-25 10:26:29 INFO  - Closing browser
+2024-09-25 11:04:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-09-25 11:04:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-09-25 11:04:31 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-09-25 11:04:31 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-09-25 11:04:31 INFO  - Browser 'CHROME' ready...
+2024-09-25 11:04:31 INFO  - Maximizing browser window
+2024-09-25 11:04:31 INFO  - Navigate to url - 'https://www.accuweather.com/'
+2024-09-25 11:04:47 DEBUG - No elements with locator 'By.className: results-container' were found in DISPLAYED state
+2024-09-25 11:04:48 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:04:48 INFO  - Label 'Main Page' :: Waiting for element to be displayed
+2024-09-25 11:05:18 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'main-page')]' were found in DISPLAYED state
+2024-09-25 11:05:18 INFO  - Label 'Main Page' :: Element has not become displayed after timeout
+2024-09-25 11:05:18 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:05:18 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:05:18 INFO  - Text Field 'Search Input' :: Clicking
+2024-09-25 11:05:18 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:05:18 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:05:18 INFO  - Text Field 'Search Input' :: Clearing
+2024-09-25 11:05:18 INFO  - Text Field 'Search Input' :: Typing 'New York'
+2024-09-25 11:05:18 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:05:18 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:05:18 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:05:18 DEBUG - Elements were found by locator 'By.className: results-container' but not in desired state DISPLAYED
+2024-09-25 11:05:18 INFO  - Button 'First Suggestion' :: Clicking
+2024-09-25 11:05:20 INFO  - Label 'City Header' :: Getting text from element
+2024-09-25 11:05:26 INFO  - Label 'City Header' :: Element's text: [New York City, NY]
+2024-09-25 11:05:26 INFO  - Closing browser

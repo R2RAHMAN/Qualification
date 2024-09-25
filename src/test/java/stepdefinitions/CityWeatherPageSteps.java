@@ -23,10 +23,4 @@ public class CityWeatherPageSteps {
         System.out.println(arg0);
     }
 
-    @Then("I print {int}")
-    public void iPrint(int number) {
-        step("Print " + number);
-        System.out.println(number);
-
-    }
 }
